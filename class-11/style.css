@@ -1,0 +1,7 @@
+#iconimg:hover
+{
+    cursor: pointer; 
+}
+input::placeholder{
+    color:red;
+}
